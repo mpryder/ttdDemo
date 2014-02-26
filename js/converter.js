@@ -1,0 +1,6 @@
+var Converter = (function() {
+	
+	return {
+		
+	}
+})()
